@@ -1,0 +1,21 @@
+[submodule "distributed-socket-chat"]
+	path = distributed-socket-chat
+	url = git@bitbucket.org:kisp/distributed-socket-chat.git
+[submodule "math"]
+	path = math
+	url = git@bitbucket.org:kisp/math.git
+[submodule "javaExamplesInANutshell3"]
+	path = javaExamplesInANutshell3
+	url = git@bitbucket.org:kisp/javaexamplesinanutshell3.git
+[submodule "jdk-file-web-server"]
+	path = jdk-file-web-server
+	url = git@bitbucket.org:kisp/jdk-file-web-server.git
+[submodule "chess"]
+	path = chess
+	url = git@bitbucket.org:kisp/chess.git
+[submodule "epam_training_repo"]
+	path = epam_training_repo
+	url = git@bitbucket.org:kisp/epam_training_repo.git
+[submodule "filewatcher.git"]
+	path = filewatcher.git
+	url = git@bitbucket.org:kisp/filewatcher.git
