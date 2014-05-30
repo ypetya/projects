@@ -14,6 +14,7 @@ GIT_REPO=$(xclip -sel clip -o)
 DIR=${GIT_REPO##*/}
 
 if [ ! -d $DIR ] ; then
-  git submodule add $GIT_REPO $DIR
+  # cuts the "git clone " String from the beginning
+  git submodule add ${GIT_REPO#git clone } $DIR
 fi
 

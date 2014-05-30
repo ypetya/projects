@@ -19,3 +19,6 @@
 [submodule "filewatcher.git"]
 	path = filewatcher.git
 	url = git@bitbucket.org:kisp/filewatcher.git
+[submodule "jmx-filetransfer.git"]
+	path = jmx-filetransfer.git
+	url = git@bitbucket.org:kisp/jmx-filetransfer.git
